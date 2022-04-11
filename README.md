@@ -1,4 +1,3 @@
 # WachmannJS
-Wachmann Discord Bot
 
-.
+The current running version of Wachmann is not in this repo
